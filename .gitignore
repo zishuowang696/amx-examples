@@ -1,0 +1,5 @@
+build/
+_libamxc/
+*.o
+*.so
+*.a
